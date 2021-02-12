@@ -1,0 +1,80 @@
+
+
+.App-logo {
+  /* animation: App-logo-spin infinite 20s linear; */
+  height: 100px;
+  cursor: pointer;
+}
+
+.App-header {
+  display: flex;
+  justify-content: space-between;
+  background-color: #ededed;
+  height: auto;
+  padding: 20px;
+  color: #777777;
+}
+
+.App-title {
+  font-size: 2.5em;
+}
+
+.url-text{
+  color: #6600cc;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.table-header{
+  text-align: center;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.userContainer {
+  display: flex;
+}
+
+.avatar{
+  height: 200px;
+}
+
+.earthquake-detail{
+  margin-left: 200px;
+  margin-top: 20px;
+}
+
+.header-text{
+  margin-left: 35%;
+  font-weight: 600;
+  font-size: 18px;
+  padding: 20px;
+  color: #444444;
+}
+
+.user-information {
+  font-weight: 600;
+  color: #444444;
+  font-size:16px;
+}
+
+.user-additional-info{
+  font-weight: 600;
+  color:#777777;
+  font-size:16px;
+}
+
+.list-header{
+  text-align: center;
+  font-weight: 600;
+  font-size: 18px;
+  padding: 20px;
+  color: #444444;
+}
